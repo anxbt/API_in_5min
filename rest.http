@@ -1,0 +1,8 @@
+GET http://localhost:8082/fruits
+Content-Type: application/json
+
+# {
+#     "id": 1,
+#     "name": "Drew Hardwick",
+#     "date": "2006-2007",
+# }
